@@ -31,4 +31,4 @@ You can press `Tab` to switch to spawning GameObjects, just to visually show tha
 
 ## Project Layout
 
-This is a standard project layout, and it's barebones. Note that the spawning system is `Assets/Scripts/SpawningSystem.cs`. Cube authoring is `Assets/Scripts/Cube.cs`. The sample scene is `Assets/Scenes/SampleScene.Unity`.
+This is a standard project layout, and it's barebones. Note that the spawning system is `Assets/Scripts/SpawnSystem.cs`. Cube authoring is `Assets/Scripts/Cube.cs`. The sample scene is `Assets/Scenes/SampleScene.Unity`.
